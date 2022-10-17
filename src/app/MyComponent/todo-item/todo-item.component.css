@@ -1,0 +1,6 @@
+.task-item p {
+    margin-bottom: 6px;
+}
+.strike{
+    text-decoration: line-through;
+}
